@@ -2,13 +2,6 @@
 using namespace std;
 
 
-********************** NOTE ***************************
-// The lines are solely written for explanation
-// purpose. They will not compile. Reuse of
-// same variable names are done to explain.
-// Do not mix the above line with the current line.
-*******************************************************
-
 // Pairs
 void explainPair() {
 
